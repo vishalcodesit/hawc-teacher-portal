@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "69c5c86bb4016bd893d76acd"
+  },
+  "user_id": {
+    "$oid": "69c5c86bb4016bd893d76acb"
+  },
+  "university_name": "VIT",
+  "gender": "Male",
+  "year_joined": 2024,
+  "department": "",
+  "designation": "Lecturer",
+  "subject_specialization": "",
+  "createdAt": {
+    "$date": "2026-03-26T23:59:39.626Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T23:59:39.626Z"
+  },
+  "__v": 0
+}]

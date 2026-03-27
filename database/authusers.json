@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "69c5c4f824fb9f7d07e22de9"
+  },
+  "email": "vishal@test.com",
+  "first_name": "Vishal",
+  "last_name": "Tiwari",
+  "password": "$2a$10$RcMHrndFA/HOp2f/vHTghOG4KmK3esuDOYCOsWZ.hpUOt3hylXQxa",
+  "phone": "",
+  "is_active": true,
+  "createdAt": {
+    "$date": "2026-03-26T23:44:56.829Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T23:44:56.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c5c86bb4016bd893d76acb"
+  },
+  "email": "vishal9876tiwari@gmail.com",
+  "first_name": "Vishal",
+  "last_name": "Tiwari",
+  "password": "$2a$10$MTPNc.kZUX3RNg9LFekOK.ZFGce8VL4ublIaWJlCTnVNcRMxq3H8K",
+  "phone": "1234567889",
+  "is_active": true,
+  "createdAt": {
+    "$date": "2026-03-26T23:59:39.544Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T23:59:39.544Z"
+  },
+  "__v": 0
+}]
